@@ -40,9 +40,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ ResponsiveDesign.(https://github.com/Aman2221/ResponsiveDesign.github.io)
-2. 🎉 JavaScript-Calculator(https://github.com/Aman2221/JavaScript-Calculator)
-3. 🗣 JavaScriptClock (https://github.com/Aman2221/JavaScriptClock.github.io)
+1. ❗️ ResponsiveDesign (https://github.com/Aman2221/ResponsiveDesign.github.io)
+2. 🎉 JavaScript-Calculator (https://github.com/Aman2221/JavaScript-Calculator)
+3. 🗣 JavaScriptClock  (https://github.com/Aman2221/JavaScriptClock.github.io)
 <!--END_SECTION:activity-->
 
 </details>
