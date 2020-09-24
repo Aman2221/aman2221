@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=AmanSingh&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aman2221.github.io/AmanPortfolio.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmanSingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Aman23398618)
 
-## I'm a Developer, and Student !
+## I'm a Web Developer, and Student !
 
 - 🔭 I’m currently working on a Web Application!
 - 🌱 I’m currently learning everything 🤣
