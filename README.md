@@ -50,13 +50,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="aman2221's Github Stats" src="https://github.com/Aman2221" />
-
-</details>
-
 [website]: https://aman2221.github.io/AmanPortfolio.github.io/
 [twitter]: https://twitter.com/Aman23398618
 [instagram]: https://www.instagram.com/aman_singhhhhhh/
