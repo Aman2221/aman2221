@@ -6,7 +6,7 @@
 ## I'm a Web Developer, and Student !
 
 - 🔭 I’m currently working on a Web Application
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MongoDB
 - 👯 I’m looking for internships
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to read books on Cosmology
