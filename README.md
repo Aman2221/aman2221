@@ -51,3 +51,5 @@
 [twitter]: https://twitter.com/Aman23398618
 [instagram]: https://www.instagram.com/aman_singhhhhhh/
 [linkedin]: https://www.linkedin.com/in/aman-shivaji-singh-6a81281b3/
+
+![Aman github stats](https://github-readme-stats.vercel.app/api?username=Aman2221&show_icons=true&theme=tokyonight)
