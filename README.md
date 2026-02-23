@@ -1,14 +1,14 @@
-### Hi there, I'm Aman Singh a Web Devloper 👋
+### Hi there, I'm Aman Singh, a Software Developer 👋
 # [![Aman Singh header](https://github.com/Aman2221/aman2221/blob/master/Social%20Background.png)](https://www.aman-singh.in/)
 [![Website](https://img.shields.io/website?label=AmanSingh&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aman2221.github.io/AmanPortfolio.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmanSingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Aman23398618)
 
-## I'm a Web Developer, and Student !
+## I'm a Software Developer and Student!
 
 - 🔭 I’m currently working on a Web Application
 - 🌱 I’m currently learning MERN
-- 👯 I’m looking for internships
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 👯 I’m looking for Senior Frontend Developer/ Team lead roles
+- 🥅 2026 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to read books on Cosmology
 
 ### Connect with me:
@@ -52,3 +52,4 @@
 [linkedin]: https://www.linkedin.com/in/aman-shivaji-singh-6a81281b3/
 
 ![Aman github stats](https://github-readme-stats.vercel.app/api?username=Aman2221&show_icons=true&theme=tokyonight)
+
